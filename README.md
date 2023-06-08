@@ -48,4 +48,17 @@ https://github.com/openai/openai-cookbook
 https://github.com/Azure/azure-openai-samples
 
 
+## Blogs 
+
+**How ChatGPT Plugins (could) work**
+https://techcommunity.microsoft.com/t5/fasttrack-for-azure/how-chatgpt-plugins-could-work/ba-p/3761483
+
+**The importance of effective prompt engineering in AI (Generative AI)**
+https://www.linkedin.com/pulse/importance-effective-prompt-engineering-ai-thiago-rotta/
+
+**Unleashing the power of AI with Azure OpenAI: A simple guide to get started.**
+https://techcommunity.microsoft.com/t5/fasttrack-for-azure/unleashing-the-power-of-ai-with-azure-openai-a-simple-guide-to/ba-p/3725706
+
+
+
 
