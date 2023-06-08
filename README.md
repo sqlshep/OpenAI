@@ -23,6 +23,12 @@ https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy
 
 ### Deployable Application Samples
 
+**Azure OpenAI Embeddings QnA**
+https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna
+
+**Azure Cosmos DB + OpenAI ChatGPT**
+https://github.com/Azure-Samples/cosmosdb-chatgpt
+
 **ChatGPT + Enterprise data with Azure OpenAI and Cognitive Search**
 https://github.com/Azure-Samples/azure-search-openai-demo
 
@@ -32,8 +38,14 @@ https://github.com/amulchapla/AI-Powered-Call-Center-Intelligence/blob/main/call
 
 ### Jupyter Notebook Samples
 
-**OpenAI Cookbook**
+**Azure OpenAI Examples** 
+https://github.com/jakeatmsft/AzureOpenAIExamples
+
+**OpenAI Cookbook** 
 https://github.com/openai/openai-cookbook
+
+**GPT Fundamentals, Use Cases and Sample Solutions** 
+https://github.com/Azure/azure-openai-samples
 
 
 
