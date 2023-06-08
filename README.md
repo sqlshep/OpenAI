@@ -59,6 +59,8 @@ https://www.linkedin.com/pulse/importance-effective-prompt-engineering-ai-thiago
 **Unleashing the power of AI with Azure OpenAI: A simple guide to get started.**
 https://techcommunity.microsoft.com/t5/fasttrack-for-azure/unleashing-the-power-of-ai-with-azure-openai-a-simple-guide-to/ba-p/3725706
 
+**FastTrack for Azure - Azure OpenAI**
+https://github.com/Azure/FTALive-Sessions/tree/main/content/ai/azure-openai/en
 
 
 
