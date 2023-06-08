@@ -4,7 +4,7 @@ Landing Page for OpenAI related links and topics
 ### Getting Started
 
 **Register for OpenAI Access**
-aka.ms/oai/access
+https://aka.ms/oai/access
 
 **GPT-4 Access**
 https://aka.ms/oai/get-gpt4
