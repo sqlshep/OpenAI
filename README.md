@@ -35,6 +35,10 @@ https://github.com/Azure-Samples/azure-search-openai-demo
 **Azure AI (including Azure OpenAI) - powered Conversation Intelligence**
 https://github.com/amulchapla/AI-Powered-Call-Center-Intelligence/blob/main/call-intelligence-realtime/README.md
 
+**OpenAI .NET Samples**
+https://github.com/Azure-Samples/openai-dotnet-samples
+
+
 
 ### Jupyter Notebook Samples
 
