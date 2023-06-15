@@ -52,7 +52,7 @@ https://github.com/openai/openai-cookbook
 https://github.com/Azure/azure-openai-samples
 
 
-## Blogs 
+## Blogs and Posts
 
 **How ChatGPT Plugins (could) work**
 https://techcommunity.microsoft.com/t5/fasttrack-for-azure/how-chatgpt-plugins-could-work/ba-p/3761483
@@ -65,6 +65,10 @@ https://techcommunity.microsoft.com/t5/fasttrack-for-azure/unleashing-the-power-
 
 **FastTrack for Azure - Azure OpenAI**
 https://github.com/Azure/FTALive-Sessions/tree/main/content/ai/azure-openai/en
+
+**Azure OpenAI Service: 10 ways generative AI is transforming businesses**
+https://azure.microsoft.com/en-us/blog/azure-openai-service-10-ways-generative-ai-is-transforming-businesses/
+
 
 
 
