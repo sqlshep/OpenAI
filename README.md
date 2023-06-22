@@ -48,6 +48,9 @@ https://github.com/jakeatmsft/AzureOpenAIExamples
 **OpenAI Cookbook** 
 https://github.com/openai/openai-cookbook
 
+**Getting Started with Vector Databases**
+https://github.com/openai/openai-cookbook/tree/main/examples/vector_databases
+
 **GPT Fundamentals, Use Cases and Sample Solutions** 
 https://github.com/Azure/azure-openai-samples
 
