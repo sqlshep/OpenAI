@@ -3,6 +3,9 @@ Landing Page for OpenAI related links and topics
 
 ### Getting Started
 
+**Azure OpenAI Code of Conduct**
+https://learn.microsoft.com/en-us/legal/cognitive-services/openai/code-of-conduct
+
 **Register for OpenAI Access**
 https://aka.ms/oai/access
 
