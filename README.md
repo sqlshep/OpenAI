@@ -2,11 +2,10 @@
 Landing Page for OpenAI related links and topics
 
 ### Getting Started
-#### Start Here
+
 **Introduction to Azure OpenAI and Architecture Patterns Video**
+
 https://youtu.be/TI85JJVPnrM
-
-
 
 **Azure OpenAI Code of Conduct**
 https://learn.microsoft.com/en-us/legal/cognitive-services/openai/code-of-conduct
