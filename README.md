@@ -19,6 +19,9 @@ https://aka.ms/oai/get-gpt4
 **Resposible AI** 
 https://github.com/Azure/FTALive-Sessions/tree/main/content/ai/responsible-ai
 
+**Responsible AI Maturity Model**
+https://www.microsoft.com/en-us/research/uploads/prod/2023/05/RAI_Maturity_Model_Aether_Microsoft_whitepaper.pdf
+
 **Responsible OpenAI**
 https://aka.ms/Llama_RAI
 
