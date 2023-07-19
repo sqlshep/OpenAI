@@ -16,6 +16,9 @@ https://aka.ms/oai/access
 **GPT-4 Access**
 https://aka.ms/oai/get-gpt4
 
+**Resposible AI** 
+https://github.com/Azure/FTALive-Sessions/tree/main/content/ai/responsible-ai
+
 **Responsible OpenAI**
 https://aka.ms/Llama_RAI
 
