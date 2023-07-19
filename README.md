@@ -7,12 +7,6 @@ Landing Page for OpenAI related links and topics
 **Azure OpenAI Code of Conduct**
 https://learn.microsoft.com/en-us/legal/cognitive-services/openai/code-of-conduct
 
-**Register for OpenAI Access**
-https://aka.ms/oai/access
-
-**GPT-4 Access**
-https://aka.ms/oai/get-gpt4
-
 **Resposible AI** 
 https://github.com/Azure/FTALive-Sessions/tree/main/content/ai/responsible-ai
 
@@ -30,6 +24,13 @@ https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy
 
 **Azure OpenAI Service Price**
 https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/#overview
+
+### Register for Access
+**Register for OpenAI Access**
+https://aka.ms/oai/access
+
+**GPT-4 Access**
+https://aka.ms/oai/get-gpt4
 
 ## Useful Repos
 
