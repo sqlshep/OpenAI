@@ -1,11 +1,8 @@
 # OpenAI Links and Resources
 Landing Page for OpenAI related links and topics
 
-### Getting Started
-
-**Introduction to Azure OpenAI and Architecture Patterns Video**
-
-https://youtu.be/TI85JJVPnrM
+## Getting Started
+### Responsible AI 
 
 **Azure OpenAI Code of Conduct**
 https://learn.microsoft.com/en-us/legal/cognitive-services/openai/code-of-conduct
@@ -36,6 +33,8 @@ https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-serv
 
 ## Useful Repos
 
+**Introduction to Azure OpenAI and Architecture Patterns Video**
+https://youtu.be/TI85JJVPnrM
 
 ### Deployable Application Samples
 
