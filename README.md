@@ -16,14 +16,17 @@ https://aka.ms/oai/access
 **GPT-4 Access**
 https://aka.ms/oai/get-gpt4
 
+**Responsible OpenAI**
+https://aka.ms/Llama_RAI
+
 **Azure AI Content Safety**
 https://azure.microsoft.com/en-us/products/cognitive-services/ai-content-safety
 
-**Azure OpenAI Service Price**
-https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/#overview
-
 **Data, privacy, and security for Azure OpenAI Service**
 https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy
+
+**Azure OpenAI Service Price**
+https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/#overview
 
 ## Useful Repos
 
