@@ -54,8 +54,6 @@ https://github.com/amulchapla/AI-Powered-Call-Center-Intelligence/blob/main/call
 **OpenAI .NET Samples**
 https://github.com/Azure-Samples/openai-dotnet-samples
 
-**Prmpt Engineering**
-https://techcommunity.microsoft.com/t5/azure-ai-services-blog/15-tips-to-become-a-better-prompt-engineer-for-generative-ai/ba-p/3882935
 
 ### Jupyter Notebook Samples
 
@@ -79,6 +77,9 @@ https://techcommunity.microsoft.com/t5/fasttrack-for-azure/how-chatgpt-plugins-c
 
 **The importance of effective prompt engineering in AI (Generative AI)**
 https://www.linkedin.com/pulse/importance-effective-prompt-engineering-ai-thiago-rotta/
+
+**15 Tips to Prompt Engineering**
+https://techcommunity.microsoft.com/t5/azure-ai-services-blog/15-tips-to-become-a-better-prompt-engineer-for-generative-ai/ba-p/3882935
 
 **Unleashing the power of AI with Azure OpenAI: A simple guide to get started.**
 https://techcommunity.microsoft.com/t5/fasttrack-for-azure/unleashing-the-power-of-ai-with-azure-openai-a-simple-guide-to/ba-p/3725706
