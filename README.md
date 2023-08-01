@@ -54,7 +54,8 @@ https://github.com/amulchapla/AI-Powered-Call-Center-Intelligence/blob/main/call
 **OpenAI .NET Samples**
 https://github.com/Azure-Samples/openai-dotnet-samples
 
-
+**Prmpt Engineering**
+https://techcommunity.microsoft.com/t5/azure-ai-services-blog/15-tips-to-become-a-better-prompt-engineer-for-generative-ai/ba-p/3882935
 
 ### Jupyter Notebook Samples
 
