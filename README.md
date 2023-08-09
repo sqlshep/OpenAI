@@ -34,9 +34,6 @@ https://aka.ms/oai/get-gpt4
 
 ## Useful Repos
 
-**Introduction to Azure OpenAI and Architecture Patterns Video**
-https://youtu.be/TI85JJVPnrM
-
 ### Deployable Application Samples
 
 **Azure OpenAI Embeddings QnA**
@@ -70,7 +67,18 @@ https://github.com/openai/openai-cookbook/tree/main/examples/vector_databases
 https://github.com/Azure/azure-openai-samples
 
 
-## Blogs and Posts
+## Blogs and Posts and Videos
+
+
+**Introduction to Azure OpenAI and Architecture Patterns Video**
+https://youtu.be/TI85JJVPnrM
+
+**Azure OpenAI Chat With Your Data No Code Edition**
+https://www.youtube.com/watch?v=tFJNasjGM3E
+
+**Azure Cognitive Search! | Intro to Semantic Kernel** 
+https://www.youtube.com/watch?v=4bvnDf0F6yk
+
 
 **How ChatGPT Plugins (could) work**
 https://techcommunity.microsoft.com/t5/fasttrack-for-azure/how-chatgpt-plugins-could-work/ba-p/3761483
