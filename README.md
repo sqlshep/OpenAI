@@ -76,6 +76,10 @@ https://www.youtube.com/watch?v=tFJNasjGM3E
 **Azure Cognitive Search! | Intro to Semantic Kernel** 
 https://www.youtube.com/watch?v=4bvnDf0F6yk
 
+**Building AI Plugins With Semantic Kernel**
+https://www.deeplearning.ai/short-courses/microsoft-semantic-kernel/
+
+
 
 **How ChatGPT Plugins (could) work**
 https://techcommunity.microsoft.com/t5/fasttrack-for-azure/how-chatgpt-plugins-could-work/ba-p/3761483
