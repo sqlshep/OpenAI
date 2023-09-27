@@ -3,18 +3,14 @@ Landing Page for OpenAI related links and topics
 
 ## Getting Started
 ### Responsible AI 
+**Responsible AI with LLMs**
+https://github.com/Azure/FTALive-Sessions/blob/main/content/ai/responsible-ai/en/responsible-ai-for-llms.md
 
 **Azure OpenAI Code of Conduct**
 https://learn.microsoft.com/en-us/legal/cognitive-services/openai/code-of-conduct
 
-**Resposible AI** 
-https://github.com/Azure/FTALive-Sessions/tree/main/content/ai/responsible-ai
-
 **Responsible AI Maturity Model**
 https://www.microsoft.com/en-us/research/uploads/prod/2023/05/RAI_Maturity_Model_Aether_Microsoft_whitepaper.pdf
-
-**Responsible OpenAI**
-https://aka.ms/Llama_RAI
 
 **Azure AI Content Safety**
 https://azure.microsoft.com/en-us/products/cognitive-services/ai-content-safety
