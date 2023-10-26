@@ -32,8 +32,7 @@ https://aka.ms/oai/get-gpt4
 
 ### Deployable Application Samples
 
-**Azure OpenAI Embeddings QnA**
-https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna
+[**Azure OpenAI Embeddings QnA**](https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna)
 
 **Azure Cosmos DB + OpenAI ChatGPT**
 https://github.com/Azure-Samples/cosmosdb-chatgpt
