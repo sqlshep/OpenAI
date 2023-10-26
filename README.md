@@ -49,38 +49,27 @@ https://aka.ms/oai/get-gpt4
 ## Blogs and Posts and Videos
 
 
-**Introduction to Azure OpenAI and Architecture Patterns Video**
-https://youtu.be/TI85JJVPnrM
+[**Introduction to Azure OpenAI and Architecture Patterns Video**](https://youtu.be/TI85JJVPnrM)
 
-**Azure OpenAI Chat With Your Data No Code Edition**
-https://www.youtube.com/watch?v=tFJNasjGM3E
+[**Azure OpenAI Chat With Your Data No Code Edition**](https://www.youtube.com/watch?v=tFJNasjGM3E)
 
-**Azure Cognitive Search! | Intro to Semantic Kernel** 
-https://www.youtube.com/watch?v=4bvnDf0F6yk
+[**Azure Cognitive Search! | Intro to Semantic Kernel**](https://www.youtube.com/watch?v=4bvnDf0F6yk)
 
-**Building AI Plugins With Semantic Kernel**
-https://www.deeplearning.ai/short-courses/microsoft-semantic-kernel/
+[**Building AI Plugins With Semantic Kernel**](https://www.deeplearning.ai/short-courses/microsoft-semantic-kernel/)
 
-**Semantic Kernel Tutorial Microsoft DevRadio**
-https://www.youtube.com/watch?v=itNmb0runVo
+[**Semantic Kernel Tutorial Microsoft DevRadio**](https://www.youtube.com/watch?v=itNmb0runVo)
 
-**How ChatGPT Plugins (could) work**
-https://techcommunity.microsoft.com/t5/fasttrack-for-azure/how-chatgpt-plugins-could-work/ba-p/3761483
+[**How ChatGPT Plugins (could) work**](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/how-chatgpt-plugins-could-work/ba-p/3761483)
 
-**The importance of effective prompt engineering in AI (Generative AI)**
-https://www.linkedin.com/pulse/importance-effective-prompt-engineering-ai-thiago-rotta/
+[**The importance of effective prompt engineering in AI (Generative AI)**](https://www.linkedin.com/pulse/importance-effective-prompt-engineering-ai-thiago-rotta/)
 
-**15 Tips to Prompt Engineering**
-https://techcommunity.microsoft.com/t5/azure-ai-services-blog/15-tips-to-become-a-better-prompt-engineer-for-generative-ai/ba-p/3882935
+[**15 Tips to Prompt Engineering**](https://techcommunity.microsoft.com/t5/azure-ai-services-blog/15-tips-to-become-a-better-prompt-engineer-for-generative-ai/ba-p/3882935)
 
-**Unleashing the power of AI with Azure OpenAI: A simple guide to get started.**
-https://techcommunity.microsoft.com/t5/fasttrack-for-azure/unleashing-the-power-of-ai-with-azure-openai-a-simple-guide-to/ba-p/3725706
+[**Unleashing the power of AI with Azure OpenAI: A simple guide to get started.**](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/unleashing-the-power-of-ai-with-azure-openai-a-simple-guide-to/ba-p/3725706)
 
-**FastTrack for Azure - Azure OpenAI**
-https://github.com/Azure/FTALive-Sessions/tree/main/content/ai/azure-openai/en
+[**FastTrack for Azure - Azure OpenAI**](https://github.com/Azure/FTALive-Sessions/tree/main/content/ai/azure-openai/en)
 
-**Azure OpenAI Service: 10 ways generative AI is transforming businesses**
-https://azure.microsoft.com/en-us/blog/azure-openai-service-10-ways-generative-ai-is-transforming-businesses/
+[**Azure OpenAI Service: 10 ways generative AI is transforming businesses**](https://azure.microsoft.com/en-us/blog/azure-openai-service-10-ways-generative-ai-is-transforming-businesses/)
 
 
 
