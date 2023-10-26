@@ -75,7 +75,8 @@ https://www.youtube.com/watch?v=4bvnDf0F6yk
 **Building AI Plugins With Semantic Kernel**
 https://www.deeplearning.ai/short-courses/microsoft-semantic-kernel/
 
-
+**Semantic Kernel Tutorial Microsoft DevRadio**
+https://www.youtube.com/watch?v=itNmb0runVo
 
 **How ChatGPT Plugins (could) work**
 https://techcommunity.microsoft.com/t5/fasttrack-for-azure/how-chatgpt-plugins-could-work/ba-p/3761483
