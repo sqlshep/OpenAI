@@ -43,17 +43,13 @@ https://aka.ms/oai/get-gpt4
 
 ### Jupyter Notebook Samples
 
-**Azure OpenAI Examples** 
-https://github.com/jakeatmsft/AzureOpenAIExamples
+[**Azure OpenAI Examples**](https://github.com/jakeatmsft/AzureOpenAIExamples)
 
-**OpenAI Cookbook** 
-https://github.com/openai/openai-cookbook
+[**OpenAI Cookbook**](https://github.com/openai/openai-cookbook)
 
-**Getting Started with Vector Databases**
-https://github.com/openai/openai-cookbook/tree/main/examples/vector_databases
+[**Getting Started with Vector Databases**](https://github.com/openai/openai-cookbook/tree/main/examples/vector_databases)
 
-**GPT Fundamentals, Use Cases and Sample Solutions** 
-https://github.com/Azure/azure-openai-samples
+[**GPT Fundamentals, Use Cases and Sample Solutions**](https://github.com/Azure/azure-openai-samples)
 
 
 ## Blogs and Posts and Videos
