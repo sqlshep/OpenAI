@@ -34,14 +34,11 @@ https://aka.ms/oai/get-gpt4
 
 [**Azure OpenAI Embeddings QnA**](https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna)
 
-**Azure Cosmos DB + OpenAI ChatGPT**
-https://github.com/Azure-Samples/cosmosdb-chatgpt
+[**Azure Cosmos DB + OpenAI ChatGPT**](https://github.com/Azure-Samples/cosmosdb-chatgpt)
 
-**ChatGPT + Enterprise data with Azure OpenAI and Cognitive Search**
-https://github.com/Azure-Samples/azure-search-openai-demo
+[**ChatGPT + Enterprise data with Azure OpenAI and Cognitive Search**](https://github.com/Azure-Samples/azure-search-openai-demo)
 
-**OpenAI .NET Samples**
-https://github.com/Azure-Samples/openai-dotnet-samples
+[**OpenAI .NET Samples**](https://github.com/Azure-Samples/openai-dotnet-samples)
 
 
 ### Jupyter Notebook Samples
