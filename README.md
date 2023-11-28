@@ -53,6 +53,8 @@ https://aka.ms/oai/get-gpt4
 
 [**Azure OpenAI Chat With Your Data No Code Edition**](https://www.youtube.com/watch?v=tFJNasjGM3E)
 
+[**Azure Openai Design Patterns**](https://github.com/microsoft/azure-openai-design-patterns)
+
 [**Azure Cognitive Search! | Intro to Semantic Kernel**](https://www.youtube.com/watch?v=4bvnDf0F6yk)
 
 [**Building AI Plugins With Semantic Kernel**](https://www.deeplearning.ai/short-courses/microsoft-semantic-kernel/)
