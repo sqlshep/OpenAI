@@ -51,6 +51,8 @@ https://aka.ms/oai/get-gpt4
 
 [**Introduction to Azure OpenAI and Architecture Patterns Video**](https://youtu.be/TI85JJVPnrM)
 
+[**Getting started with Azure Machine Learning Prompt Flow**](https://youtu.be/t73rFjUNY88?si=v8CDNCqSpY6xArfE)
+
 [**Azure OpenAI Chat With Your Data No Code Edition**](https://www.youtube.com/watch?v=tFJNasjGM3E)
 
 [**Azure Openai Design Patterns**](https://github.com/microsoft/azure-openai-design-patterns)
