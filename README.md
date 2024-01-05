@@ -41,6 +41,8 @@ https://aka.ms/oai/get-gpt4
 
 [**OpenAI Cookbook**](https://github.com/openai/openai-cookbook)
 
+[Semantic Kernel](https://github.com/microsoft/semantic-kernel/tree/main/python/notebooks0
+
 [**Getting Started with Vector Databases**](https://github.com/openai/openai-cookbook/tree/main/examples/vector_databases)
 
 [**GPT Fundamentals, Use Cases and Sample Solutions**](https://github.com/Azure/azure-openai-samples)
