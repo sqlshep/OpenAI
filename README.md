@@ -47,6 +47,13 @@ https://aka.ms/oai/get-gpt4
 
 [**GPT Fundamentals, Use Cases and Sample Solutions**](https://github.com/Azure/azure-openai-samples)
 
+### Fine Tuning
+[**When to use Azure OpenAI fine-tuning**](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning?tabs=turbo%2Cpython&pivots=programming-language-python)
+
+[**Customize a model with fine-tuning**](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning?tabs=turbo%2Cpython&pivots=programming-language-python)
+
+[**Video--To Fine Tune or Not Fine Tune? That is the question**](https://www.youtube.com/watch?v=0Jo-z-MFxJs)
+
 
 ## Blogs and Posts and Videos
 
